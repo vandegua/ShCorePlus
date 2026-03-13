@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ShCorePlus/static/css/main.e6c13ad2.css",
+    "main.js": "/ShCorePlus/static/js/main.336d43c4.js",
+    "index.html": "/ShCorePlus/index.html",
+    "main.e6c13ad2.css.map": "/ShCorePlus/static/css/main.e6c13ad2.css.map",
+    "main.336d43c4.js.map": "/ShCorePlus/static/js/main.336d43c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.336d43c4.js"
+  ]
+}
