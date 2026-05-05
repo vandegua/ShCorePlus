@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ShCorePlus/static/css/main.e6c13ad2.css",
-    "main.js": "/ShCorePlus/static/js/main.c4936b67.js",
+    "main.js": "/ShCorePlus/static/js/main.c605e6b0.js",
     "index.html": "/ShCorePlus/index.html",
     "main.e6c13ad2.css.map": "/ShCorePlus/static/css/main.e6c13ad2.css.map",
-    "main.c4936b67.js.map": "/ShCorePlus/static/js/main.c4936b67.js.map"
+    "main.c605e6b0.js.map": "/ShCorePlus/static/js/main.c605e6b0.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.c4936b67.js"
+    "static/js/main.c605e6b0.js"
   ]
 }
